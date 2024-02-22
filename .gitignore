@@ -1,0 +1,47 @@
+# Build files
+*.pyc
+*.so
+*.dll
+*.o
+
+# IDE/Text editor files
+*.idea/*
+.vscode/*
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/*
+temp/*
+
+# Virtual environments
+.venv/*
+env/*
+
+# Logs
+*.log
+
+# Package managers
+node_modules/
+bower_components/
+package-lock.json
+yarn.lock
+poetry.lock
+
+# Distribution files
+dist/*
+build/*
+
+# Tests
+__pycache__/*
+test/*
+
+# Documentation
+docs/*
+
+# Coverage reports
+coverage/*
+
+# Data files
+*.csv
+*.tgz
